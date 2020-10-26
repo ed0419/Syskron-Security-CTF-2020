@@ -28,7 +28,6 @@ So we can donwload the file,and use Linux command file to check the file type,an
 >
 We found some password in (Parameter page)
 ![img](./pass.png)
-which is ()
 And we can find another password in the account management page
 Change the html field box type=password to text,result in a plain text(dYzqmTkKv457BENsKBGSfD5vcudrXe)
 ---

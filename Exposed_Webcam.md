@@ -8,10 +8,10 @@
 >Note: Do not use brute force, web crawlers or exploits to solve the challenge!
 
 ---
-## Find the bottom & file
->We tried out all the bottom on the web page,and we found out that the reset & reboot bottom in the (maintenance page) can return an error log
+## Find the button & file
+>We tried out all the button on the web page,and we found out that the reset & reboot button in the (maintenance page) can return an error log
 >
-Here is what if you press the reset bottom
+Here is what if you press the reset button
 ![img](./reboot-pendding.png)
 
 Here is the result

@@ -13,10 +13,13 @@
 >
 Here is what if you press the reset bottom
 ![img](./reboot-pendding.png)
+
 Here is the result
 ![img](./reboot-error.png)
+
 The error code seems like a encrypt base64 code,so we decrypt it
 ![img](./base64-convert.png)
+
 And it return an a file path,which is
 https://www.senork.de/camtest/front/cam1/backup_2020/2020-10-20-root-restore.backup
 [2020-10-20-root-restore.backup](./2020-10-20-root-restore.backup)
@@ -28,6 +31,7 @@ So we can donwload the file,and use Linux command file to check the file type,an
 >
 We found some password in (Parameter page)
 ![img](./pass.png)
+
 And we can find another password in the account management page
 Change the html field box type=password to text,result in a plain text(dYzqmTkKv457BENsKBGSfD5vcudrXe)
 ---

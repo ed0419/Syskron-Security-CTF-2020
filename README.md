@@ -1,4 +1,4 @@
-#ThuseDay Exposed webcam solv
+# ThuseDay Exposed webcam solv
 - Write-Up Author: ed0419
 - Flag: syskronCTF{why-1s-th1s-file-here?}
 
